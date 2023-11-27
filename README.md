@@ -1,6 +1,6 @@
 # shopify
 
-A new Flutter project.
+A new Flutter project. Its a simple e-commerce application for browsing products , adding them to cart and removing them also,futher additions can be done.
 
 ## Getting Started
 
